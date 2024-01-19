@@ -1,4 +1,4 @@
-![image](https://github.com/JDSherbert/Audio-Haas-Effect/assets/43964243/ff698228-606c-4e58-bf65-4cbe0fff7ab7)
+![image](https://github.com/JDSherbert/Audio-Delay/assets/43964243/6a7b530e-8740-423b-a20b-defd88ea625b)
 
 # Audio: Haas Effect
 
