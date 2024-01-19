@@ -5,10 +5,10 @@
 #include <iostream>
 #include <vector>
 
-class HAAS
+class Haas
 {
 public:
-    HAAS(int delayInMilliseconds);
+    Haas(int delayInMilliseconds);
 
     float ProcessSample(float input, bool isLeftChannel);
 
