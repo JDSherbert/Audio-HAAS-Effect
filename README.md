@@ -1,4 +1,4 @@
-![image](https://github.com/JDSherbert/Audio-Haas-Effect/assets/43964243/a9854b9f-ee18-427f-b924-b789b0741932)
+![image](https://github.com/JDSherbert/Audio-Haas-Effect/assets/43964243/ff698228-606c-4e58-bf65-4cbe0fff7ab7)
 
 # Audio: Haas Effect
 
@@ -29,7 +29,11 @@ In the Haas effect, you have two identical signals, typically a direct signal (t
 
 The Haas effect is often used in audio production for widening the stereo image without creating a noticeable echo. It's particularly useful for creating a sense of spaciousness in vocals, guitars, and other mono sources.
 
+Here's a really good article from iZotope explaining the Haas effect further, with examples:
+https://www.izotope.com/en/learn/5-ways-to-adjust-phase-after-recording.htmlI
+
 ![image](https://github.com/JDSherbert/Audio-Haas-Effect/assets/43964243/afbaf0b1-29b9-411b-8ce3-6400b7bdde89)
+
 
 -----------------------------------------------------------------------
 
