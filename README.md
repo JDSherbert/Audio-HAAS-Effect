@@ -1,4 +1,4 @@
-![image](https://github.com/JDSherbert/Audio-Haas-Effect/assets/43964243/afbaf0b1-29b9-411b-8ce3-6400b7bdde89)
+![image](https://github.com/JDSherbert/Audio-Haas-Effect/assets/43964243/a9854b9f-ee18-427f-b924-b789b0741932)
 
 # Audio: Haas Effect
 
@@ -28,6 +28,8 @@ The Haas effect, also known as the precedence effect, involves using a short del
 In the Haas effect, you have two identical signals, typically a direct signal (the original sound) and a delayed signal. The delayed signal is introduced with a very short delay, usually in the range of 1 to 40 milliseconds. This delay is short enough that the ear perceives the two signals as a single sound source. By panning the original and delayed signals differently in the stereo field, you can create a sense of spatiality or width in the sound. For example, if the original signal is panned center and the delayed signal is panned slightly to one side, it can create a sense of the sound coming from that direction.
 
 The Haas effect is often used in audio production for widening the stereo image without creating a noticeable echo. It's particularly useful for creating a sense of spaciousness in vocals, guitars, and other mono sources.
+
+![image](https://github.com/JDSherbert/Audio-Haas-Effect/assets/43964243/afbaf0b1-29b9-411b-8ce3-6400b7bdde89)
 
 -----------------------------------------------------------------------
 
