@@ -1,15 +1,15 @@
 // ©2024 JDSherbert. All Rights Reserved.
 
-#include "AudioDelay.h"
+#include "Haas.h"
 
-HAAS::HAAS(int delayInMilliseconds) 
+Haas::Haas(int delayInMilliseconds) 
 : delayInSamples(delayInMilliseconds * sampleRate / 1000)
 , writeIndex(0) 
 {
     delayBuffer.resize(delayInSamples, 0);
 }
 
-float HAAS::ProcessSample(float input, bool isLeftChannel);
+float Haas::ProcessSample(float input, bool isLeftChannel);
 {
     float delayedSample = delayBuffer[writeIndex];
     delayBuffer[writeIndex] = input;
