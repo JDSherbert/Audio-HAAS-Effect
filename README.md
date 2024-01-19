@@ -1,4 +1,4 @@
-![image](https://github.com/JDSherbert/Audio-HAAS-Effect/assets/43964243/3d5d3021-8a89-444f-81a6-f5d8aa891054)
+![image](https://github.com/JDSherbert/Audio-HAAS-Effect/assets/43964243/afbaf0b1-29b9-411b-8ce3-6400b7bdde89)
 
 # Audio: HAAS Effect
 
@@ -25,7 +25,7 @@
 ## Overview
 Some words about the project here-
 
-![image](https://github.com/JDSherbert/Audio-HAAS-Effect/assets/43964243/afbaf0b1-29b9-411b-8ce3-6400b7bdde89)
+
 
 
 -----------------------------------------------------------------------
