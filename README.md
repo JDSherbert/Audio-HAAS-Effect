@@ -23,7 +23,7 @@
 
 -----------------------------------------------------------------------
 ## Overview
-The Haas effect, also known as the precedence effect, involves using a short delay ([see my article on delay here](https://github.com/JDSherbert/Audio-Delay))between two identical signals to create a perception of localization or spaciousness in sound. It's a psychoacoustic phenomenon where the human ear perceives the direction of a sound source based on the first arriving wavefront, and the delayed sound is fused with the original, creating a perception of a single sound source.
+The Haas effect, also known as the precedence effect, involves using a short delay ([see my article on delay here](https://github.com/JDSherbert/Audio-Delay)) between two identical signals to create a perception of localization or spaciousness in sound. It's a psychoacoustic phenomenon where the human ear perceives the direction of a sound source based on the first arriving wavefront, and the delayed sound is fused with the original, creating a perception of a single sound source.
 
 In the Haas effect, you have two identical signals, typically a direct signal (the original sound) and a delayed signal. The delayed signal is introduced with a very short delay, usually in the range of 1 to 40 milliseconds. This delay is short enough that the ear perceives the two signals as a single sound source. By panning the original and delayed signals differently in the stereo field, you can create a sense of spatiality or width in the sound. For example, if the original signal is panned center and the delayed signal is panned slightly to one side, it can create a sense of the sound coming from that direction.
 
